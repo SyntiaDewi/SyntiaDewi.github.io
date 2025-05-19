@@ -1,5 +1,1 @@
-# SyntiaDewi.github.io
-
-
-
-Marine AI
+Maritime Digital Solutions
